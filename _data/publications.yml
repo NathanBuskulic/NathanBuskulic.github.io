@@ -1,5 +1,8 @@
 main:
-
+  - title: Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent
+    authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
+    conference: Arxiv, 2024
+    pdf: https://arxiv.org/abs/2403.05395
   - title: Convergence and Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
     conference: Arxiv, 2023

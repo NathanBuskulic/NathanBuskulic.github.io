@@ -11,6 +11,9 @@ main:
     notes: Best paper award
   - title: Labelling sulcal graphs across indiviuals using multigraph matching
     authors: <strong>Nathan Buskulic</strong>, François-Xavier Dupé, Sylvain Takerkart, Guillaume Auzias
-    conference: International Symposium on Biomedical Imaging, 2023
-    pdf: https://arxiv.org/abs/2303.11265
-    notes: Best paper award
+    conference: International Symposium on Biomedical Imaging, 2021
+    pdf: https://hal.science/hal-03401832/file/ISBI_multigraph.pdf
+  - title: Maximizing drift is not optimal for solving OneMax
+    authors: <strong>Nathan Buskulic</strong>, Carola Doerr
+    conference: Genetic and Evolutionary Computation Conference, 2019
+    pdf: https://arxiv.org/abs/1904.07818

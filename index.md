@@ -14,7 +14,9 @@ Hi! I am a postdoctoral researcher in the Machine Learning center of Genova (MaL
 - **[September 2023]** The full journal version of our work on convergence guarantees of DL applied to inverse problems is on arxiv.
 - **[May 2023]** Our paper won the best paper award at SSVM.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications_journal.md %}
+
+{% include_relative _includes/publications_conf.md %}
 
 {% include_relative _includes/teachings.md %}
 

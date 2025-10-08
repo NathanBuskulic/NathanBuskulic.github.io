@@ -1,9 +1,9 @@
 main:
   - title: Implicit Regularization of the Deep Inverse Prior Trained with Inertia
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
-    conference: Arxiv, 2025
+    conference: Handbook of Numerical Analysis, 2025
     pdf: https://arxiv.org/abs/2506.02986
   - title: Convergence and Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
-    conference: JMIV, 2023
+    conference: Journal of Mathematical Imaging and Vision , 2023
     pdf: https://arxiv.org/abs/2309.12128

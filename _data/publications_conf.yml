@@ -9,3 +9,8 @@ main:
     conference: Scale Space and Variational Methods, 2023
     pdf: https://arxiv.org/abs/2303.11265
     notes: Best paper award
+  - title: Labelling sulcal graphs across indiviuals using multigraph matching
+    authors: <strong>Nathan Buskulic</strong>, François-Xavier Dupé, Sylvain Takerkart, Guillaume Auzias
+    conference: International Symposium on Biomedical Imaging, 2023
+    pdf: https://arxiv.org/abs/2303.11265
+    notes: Best paper award

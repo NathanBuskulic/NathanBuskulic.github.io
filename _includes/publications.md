@@ -5,6 +5,8 @@
 
 {% for link in site.data.publications.main %}
 
+{% for link in site.data.publications_conf.main %}
+
 <li>
 <div class="pub-row"><!--
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;margin-bottom: 0rem;height:7.2rem">

@@ -4,7 +4,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<div style="margin: 0px 0px 15px; border: 1px solid white">
+<div style="margin: 0px 0px 25px; border: 1px solid white">
 {% for link in site.data.publications.main %}
 
 <li>
@@ -51,7 +51,7 @@
 {% endfor %}
 </div>
 
-<h3 id="publications" style="margin: 2px 0px 0px;">Conference articles</h3>
+<h3 id="publications" style="margin: 2px 0px 10px;">Conference articles:</h3>
 
 <div style="margin: 0px 0px 15px; border: 1px solid white">
 {% for link in site.data.publications_conf.main %}

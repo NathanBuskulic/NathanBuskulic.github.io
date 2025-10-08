@@ -3,17 +3,7 @@ main:
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
     conference: Arxiv, 2025
     pdf: https://arxiv.org/abs/2506.02986
-  - title: Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent
-    authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
-    conference: EUSIPCO, 2024
-    pdf: https://arxiv.org/abs/2403.05395
-    notes: Finalist for best paper award
   - title: Convergence and Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau
     conference: JMIV, 2023
     pdf: https://arxiv.org/abs/2309.12128
-  - title: Convergence Guarantees of Overparametrized Wide Deep Inverse Prior
-    authors: <strong>Nathan Buskulic</strong>, Yvain Quéau, Jalal Fadili
-    conference: SSVM, 2023
-    pdf: https://arxiv.org/abs/2303.11265
-    notes: Best paper award

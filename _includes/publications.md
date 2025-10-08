@@ -1,10 +1,10 @@
-<h2 id="publications" style="margin: 2px 0px 0px;">Selected Publications</h2>
-<h3 id="publications" style="margin: 2px 0px -15px;">Journals articles</h3>
+<h2 id="publications" style="margin: 2px 0px 20px;">Selected Publications</h2>
+<h3 id="publications" style="margin: 2px 0px -25px;">Journals articles:</h3>
 
 <div class="publications">
 <ol class="bibliography">
 
-<div style="margin: 0px 0px 0px; border: 1px solid white">
+<div style="margin: 0px 0px 15px; border: 1px solid white">
 {% for link in site.data.publications.main %}
 
 <li>
@@ -53,6 +53,7 @@
 
 <h3 id="publications" style="margin: 2px 0px 0px;">Conference articles</h3>
 
+<div style="margin: 0px 0px 15px; border: 1px solid white">
 {% for link in site.data.publications_conf.main %}
 
 <li>
@@ -97,6 +98,7 @@
 
 
 {% endfor %}
+</div>
 
 </ol>
 </div>

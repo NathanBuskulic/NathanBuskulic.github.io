@@ -1,7 +1,7 @@
 main:
   - title: On the Sample Complexity of Learning for Blind Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Luca Calatroni, Lorenzo Rosasco, Silvia Villa
-    conference: <em>Submitted<em>, 2025
+    conference: <em>Submitted</em>, 2025
     pdf: https://arxiv.org/abs/2512.23405
   - title: Implicit Regularization of the Deep Inverse Prior Trained with Inertia
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau

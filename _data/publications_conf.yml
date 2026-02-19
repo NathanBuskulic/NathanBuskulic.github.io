@@ -1,7 +1,7 @@
 main:
   - title: A Comparative Study of MAP and LMMSE Estimators for Blind Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Luca Calatroni
-    conference: Submitted
+    conference: Submitted, 2026
     pdf: https://arxiv.org/abs/2602.11814
   - title: Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent
     authors: <strong>Nathan Buskulic</strong>, Jalal Fadili, Yvain Quéau

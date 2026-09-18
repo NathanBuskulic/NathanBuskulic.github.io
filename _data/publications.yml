@@ -1,5 +1,5 @@
 main:
-  - title: Multi-view Shape-from-Shading: a Tour
+  - title: "Multi-view Shape-from-Shading: a Tour"
     authors: Yvain Quéau, Silvia Tozza, Baptiste Brument,<strong>Nathan Buskulic</strong>, Jean Mélou, Lilian Calvet, Jalal Fadili, Jean-Denis Durou
     conference: Communications on Applied Mathematics and Computation, 2026
     pdf: https://hal.science/hal-05749277

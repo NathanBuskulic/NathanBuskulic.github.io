@@ -1,4 +1,8 @@
 main:
+  - title: Multi-view Shape-from-Shading: a Tour
+    authors: Yvain Quéau, Silvia Tozza, Baptiste Brument, Nathan Buskulic, Jean Mélou, Lilian Calvet, Jalal Fadili, Jean-Denis Durou
+    conference: <em>Submitted</em>, 2025
+    pdf: https://arxiv.org/abs/2512.23405
   - title: On the Sample Complexity of Learning for Blind Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Luca Calatroni, Lorenzo Rosasco, Silvia Villa
     conference: <em>Submitted</em>, 2025

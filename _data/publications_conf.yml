@@ -1,4 +1,7 @@
 main:
+  - title: Neural Blind Deconvolution for Image Scanning Microscopy
+    authors: Eliot Guez, <strong>Nathan Buskulic</strong>, Lisa Cuneo, Luca Calatroni, Giuseppe Vicidomini
+    conference: Submitted, 2026 
   - title: A Comparative Study of MAP and LMMSE Estimators for Blind Inverse Problems
     authors: <strong>Nathan Buskulic</strong>, Luca Calatroni
     conference: European Signal Processing Conference, 2026

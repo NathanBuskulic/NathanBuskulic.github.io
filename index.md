@@ -6,6 +6,8 @@ layout: homepage
 
 Hi! I am a postdoctoral researcher in the Machine Learning center of Genova (MaLGa) working mainly with Luca Calatroni. My work focuses on solving (blind) inverse problems with a strong focus on developing deep theoretical understanding of the methods I use (both model and data-based ones). I am particularly interested in methods that work when no or few training samples are available, which match many real-world settings. I obtained my Ph.D. from Université de Caen in Normandy, France, under the supervision of Jalal Fadili and Yvain Quéau.
 
+{% include_relative _includes/collaborations.md %}
+
 ## News
 
 - **[September 2026]** I visited Dirk Lorenz at Bremen University to kickstart a collaboration on blind inverse problems.
